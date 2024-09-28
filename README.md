@@ -42,15 +42,6 @@
 ## 6. Design System and Asset Management
 - **Task 6.1:** Create and maintain a design system (reusable components)
 - **Task 6.2:** Organize design assets in a centralized repository (icon sets, templates)
-- **Task 6.3:** Ensure brand consistency across all design outputs
+- 
 
-## 7. Collaborations and Design Reviews
-- **Task 7.1:** Coordinate with cross-functional teams (marketing, development)
-- **Task 7.2:** Conduct internal design reviews and gather feedback
-- **Task 7.3:** Present designs to stakeholders for approval and revisions
-- **Task 7.4:** Manage design revisions and approvals from stakeholders
 
-## 8. Ongoing Maintenance and Updates
-- **Task 8.1:** Regularly update website or app designs to stay current
-- **Task 8.2:** Adjust marketing designs to align with seasonal or campaign changes
-- **Task 8.3:** Update brand materials as the company grows or evolves
