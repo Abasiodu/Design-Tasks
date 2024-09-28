@@ -1,5 +1,3 @@
-# Design-Tasks
-
 # Design Tasks Outline for a Company
 
 ## 1. Branding and Identity Design
@@ -17,7 +15,6 @@
 - **Task 2.3:** Design user interface (UI) components (buttons, forms, icons)
 - **Task 2.4:** Create responsive web designs (desktop, tablet, mobile views)
 - **Task 2.5:** Collaborate with developers to implement design specifications
-- **Task 2.6:** Design interactive prototypes and animations
 
 ## 3. Marketing and Advertising Design
 - **Task 3.1:** Create digital ad designs (banner ads, social media ads, etc.)
@@ -42,6 +39,5 @@
 ## 6. Design System and Asset Management
 - **Task 6.1:** Create and maintain a design system (reusable components)
 - **Task 6.2:** Organize design assets in a centralized repository (icon sets, templates)
-- 
 
 
