@@ -1,4 +1,4 @@
-# Design Tasks Outline for a Company
+ <!-- # Design Tasks Outline for a Company
 
 ## 1. Branding and Identity Design
 - **Task 1.1:** Conduct brand research and competitor analysis
@@ -24,4 +24,6 @@
 ## 4. Design System and Asset Management
 - **Task 4.1:** Organize design assets in a centralized repository (icon sets, templates)
 
+**/
 
+ -->
